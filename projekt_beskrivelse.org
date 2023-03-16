@@ -1,0 +1,11 @@
+* Kort problemanalyse.
+* Problemformulering.
+* Projektafgrænsning (Projekt Idé/Produkt).
+* Overvejelser om projektets indhold.
+* Strukturdiagram, flowchart, eller lignende teknisk illustration.
+* Projekttidsplan.
+
+3/17 - 24/4 : udvikling/trøning af model
+24/4 - 26/4 : værksteds uge - færdiggørelse af model
+26/4 - 28/4 : værksteds uge - test, grafer og UI
+8/5  - 11/5 : skrive uge
